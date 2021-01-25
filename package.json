@@ -1,0 +1,25 @@
+{
+    "name": "Currency-rate-API",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node -r esm index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Aijeyomah/Currency-rate-API.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Aijeyomah/Currency-rate-API/issues"
+    },
+    "homepage": "https://github.com/Aijeyomah/Currency-rate-API#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "esm": "^3.2.25"
+    }
+}
